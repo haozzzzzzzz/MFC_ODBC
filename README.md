@@ -7,6 +7,6 @@ Related Post : http://haozi.freetzi.com/software/cpp/mfc/352.html
 
 Author : haozi
 
-Url : hrrp://haozi.freetzi.com
+Url : http://haozi.freetzi.com
 
 College : China University Of Geoscience 中国地质大学（武汉）
